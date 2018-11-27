@@ -26,7 +26,7 @@ This project relies on two libraries which can be obtained via NuGet in Visual S
 
 * OpenTK
 * OpenAL
-* The wrap_oal.dll should be placed in the 'MyGame' and 'Sloth Engine' folders
+* The `wrap_oal.dll` and `OpenAL32.dll` files should be placed in the `MyGame` folder
 
 ## Known Issues
 
